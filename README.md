@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @NurCevik
 - 🌱 I’m currently learning Java
-- 📫 How to reach me rabianurcevik2@gmail.com
